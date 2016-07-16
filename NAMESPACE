@@ -1,0 +1,4 @@
+exportPattern("^[[:alpha:]]+")
+import(stats)
+importFrom("graphics", "plot")
+export(DemandQuantity, DemandPrice)
